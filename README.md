@@ -1,5 +1,5 @@
 # Proyek Membangun Web Server
-Project ini merupakan salah satu submission yang digunakan untuk keperluan tugas akhir di Dicoding - Jaringan Komputer Pemula dan berhasil mengimplementasikan baik ketentuan wajib maupun tambahan seperti dibawah ini.
+Project ini merupakan salah satu submission yang digunakan untuk keperluan tugas akhir di Dicoding - Jaringan Komputer Pemula dan berhasil mengimplementasikan baik ketentuan wajib maupun tambahan seperti dibawah ini. Saya membangun web server dengan EC2 instance dan mengimplementasikan projek ini menggunakan akun free trial AWS.
 
 # Ketentuan Wajib
 - Menyiapkan Web Server
